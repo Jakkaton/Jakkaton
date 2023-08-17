@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi 👋! I'm Jakkaton Kanata<br>                                          I'm a self-taught machine learning
+<h1 align="center">Hi 👋! I'm Jakkaton Kanata</h1>                                          
+<h3 align="center"> I'm a self-taught machine learning</h3> 
 
 
 ## 🌐 Socials:
