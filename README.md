@@ -1,4 +1,3 @@
-# 💫 About Me:
 <h1 align="center">Hi 👋! I'm Jakkaton Kanata</h1>                                          
 <h3 align="center"> I'm a self-taught machine learning</h3> 
 
