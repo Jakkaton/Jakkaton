@@ -33,9 +33,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://github.com/Jakkaton/Jakkaton/blob/main/snake.yml" alt="Snake animation" />
-
-###
